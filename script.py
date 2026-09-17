@@ -29,4 +29,9 @@ def reverse(text):
 
 print(reverse("hello there"))
 
+def capitalize_words(text):
+    return text.upper()
+
+print(capitalize_words("inazuma"))
+
 
