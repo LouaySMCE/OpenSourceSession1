@@ -1,4 +1,4 @@
-# This file was taken from as a template from gitignore repository
+# This file was taken from "https://github.com/github/gitignore" as a template from gitignore repository
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
